@@ -10,6 +10,7 @@ namespace samplemonogame
         private SpriteBatch _spriteBatch;
         private int Muhahahaha;
         private bool isHahahaha;
+        private float Hahahahaha;
 
         public Game1()
         {
