@@ -11,6 +11,7 @@ namespace samplemonogame
         private int Muhahahaha;
         private bool isHahahaha;
         private float Hahahahaha;
+        private Texture2D ImThird;
 
         public Game1()
         {
