@@ -12,7 +12,7 @@ namespace samplemonogame
         private bool isHahahaha;
         private float Hahahahaha;
         private Texture2D ImThird;
-
+        private delegate void Jump();
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
