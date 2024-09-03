@@ -8,6 +8,8 @@ namespace samplemonogame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private int Muhahahaha;
+        private bool isHahahaha;
 
         public Game1()
         {
